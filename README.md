@@ -1,4 +1,7 @@
-### Hi there 👋
+### FeFe / SquaredFe
+Boeeeenas, aqui FeFe, soy un desarrollador de argentina (🇦🇷) interesado en poder aprender y ayudar a gente. Actualmente estoy aprendiendo desarrollo de paginas web.
+Actualmente tambien estoy trabajando en un proyecto, Harmless, una distro de Linux hecha para uso personal basada en Debian.
+¡Saludos a todos los que me bancan y a los que bancan el codigo abierto a muerte!
 
 <!--
 **SquaredFe/SquaredFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
