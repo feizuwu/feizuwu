@@ -1,6 +1,4 @@
-#Feizu
 ![logo](https://github.com/feizuwu/feizuwu/assets/90733495/f69747e8-b49d-444e-a69f-edbb96daaaa8)
-Aca andamo jaja
 <!--
 **SquaredFe/SquaredFe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
